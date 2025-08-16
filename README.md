@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img width="150px" src="https://raw.githubusercontent.com/Animex-App/Animex/refs/heads/main/assets/icon.png" alt="Animex Logo"/>
+    <img width="150px" src="https://raw.githubusercontent.com/animex-official/Extension-Server/refs/heads/main/assets/icon.png" alt="Animex Logo"/>
     <h1 style="border-bottom: none;">Animex [Extension Sources]</h1>
     <p><strong>Your new home for Anime and Manga. Indie-made and designed for the community.</strong></p>
 </div>
